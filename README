@@ -1,0 +1,16 @@
+ParticleSystem+extension
+
+Created by W.Terasa on 30.12.11.
+Copyright (c) 2011 Wolion Games. All rights reserved.
+
+
+Drag both .h and .m Files to youre Sparrow Project
+
+Be sure, that the SXParticleSystem is allready in the project
+
+Now you can use the copy method to copy an existing SXPArticleSystem to a new
+one without loading the .pex file again.
+
+Because all variables are properties now you can change the particles as you wish
+at runtime.
+
